@@ -1,0 +1,7 @@
+.cabecalhoMenuListaItem {
+  list-style: none;
+}
+
+.cabecalhoMenuListaItem:last-child .cabecalhoMenuListaItemLink {
+  margin-right: 0;
+}
